@@ -3,4 +3,4 @@
 *每个文件夹对应一个博客文章*
 
 * electron-ssr : [Deepin上安装electron-ssr](https://www.jianshu.com/p/d64f3a4efcf6)
-* vscode_cpp : [Deepin/Linux下配置vscode的C++环境](https://www.jianshu.com/p/e2d09cfd993d)
+* vscode_cpp : [vscode 配置C++环境 基于Deepin/Linux](https://www.jianshu.com/p/e2d09cfd993d)
