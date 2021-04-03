@@ -4,3 +4,4 @@
 
 * electron-ssr : [Deepin上安装electron-ssr](https://www.jianshu.com/p/d64f3a4efcf6)
 * vscode_cpp : [vscode 配置C++环境 基于Deepin/Linux](https://www.jianshu.com/p/e2d09cfd993d)
+* install_rocksdb: [Ubuntu/Deepin上安装Rocksdb](https://www.jianshu.com/p/575b2e27b028)
